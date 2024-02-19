@@ -1,0 +1,89 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+.img1_logo {
+  padding-left: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.bt1 {
+  color: black;
+  font-size: 2rem;
+  border-radius: 1rem;
+  padding: 1rem 3rem 1rem 3rem;
+  margin-left: 2rem;
+}
+
+.column1 {
+  padding-left: 0% !important;
+  padding-right: 0% !important;
+}
+
+.sidebar {
+  background-color: #ffcccc;
+  height: 75rem;
+
+  font-size: 4rem;
+}
+
+.section1 {
+  background-color: #ffd4c7;
+  height: 36rem;
+
+  font-size: 4rem;
+}
+
+.section2 {
+  background-color: #bab9e2;
+
+  height: 37.4rem;
+
+  font-size: 4rem;
+}
+
+.section3 {
+  background-color: #d7bdbd;
+  height: 36rem;
+  font-size: 4rem;
+}
+.section4 {
+  background-color: #e1ffc3;
+  height: 36rem;
+  font-size: 4rem;
+}
+
+.section5 {
+  background-color: #77dff5;
+  height: 36rem;
+  font-size: 4rem;
+}
+.section6 {
+  background-color: #d7d4bd;
+  height: 36rem;
+  font-size: 4rem;
+}
+
+.footer {
+  background-color: black;
+  height: 12rem;
+  font-size: 3rem;
+  color: white;
+}
+
+.footer {
+  padding-left: 0% !important;
+  padding-right: 0% !important;
+}
